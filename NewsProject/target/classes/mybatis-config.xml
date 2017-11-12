@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <settings>
+        <setting name="cacheEnabled" value="true"/>
+        <setting name="defaultStatementTimeout" value="3000"/>
+        <!--开启驼峰命名转化-->
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+        <!--主键回填-->
+        <setting name="useGeneratedKeys" value="true"/>
+        <setting name="defaultExecutorType" value="REUSE"/>
+    </settings>
+
+    <typeAliases>
+        <package name="com.cqupt.myproject.entity"/>
+    </typeAliases>
+
+    <mappers>
+
+        <mapper resource="com/cqupt/myproject/dao/LoginMapper.xml"/>
+        <mapper resource="com/cqupt/myproject/dao/NewsMapper.xml"/>
+    </mappers>
+
+</configuration>
