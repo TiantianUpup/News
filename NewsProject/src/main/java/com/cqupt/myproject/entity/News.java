@@ -1,5 +1,6 @@
 package com.cqupt.myproject.entity;
 
+
 import java.io.Serializable;
 
 /**
@@ -11,8 +12,7 @@ public class News implements Serializable {
     private static final long serialVersionUID = 528026439035909738L;
     //新闻id
     private Integer newsId;
-    //新闻标题
-    private String newsTitle;
+    private String newsTitle; //新闻标题
     //新闻内容
     private String newsContent;
 

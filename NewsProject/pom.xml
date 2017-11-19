@@ -39,13 +39,6 @@
 
   <dependencies>
 
-    <!--JUNIT 单元测试-->
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>RELEASE</version>
-    </dependency>
-
     <dependency>
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest-core</artifactId>
@@ -281,12 +274,19 @@
       <version>1.8.3.RELEASE</version>
     </dependency>
 
-
     <dependency>
       <groupId>redis.clients</groupId>
       <artifactId>jedis</artifactId>
       <version>2.9.0</version>
     </dependency>
+
+    <!--<dependency>-->
+      <!--<groupId>org.hibernate</groupId>-->
+      <!--<artifactId>hibernate-validator</artifactId>-->
+      <!--<version>4.1.0.Final</version>-->
+    <!--</dependency>-->
+
+
 
   </dependencies>
 

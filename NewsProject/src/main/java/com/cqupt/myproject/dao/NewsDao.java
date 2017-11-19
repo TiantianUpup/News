@@ -15,4 +15,5 @@ import java.util.List;
 public interface NewsDao {
     List<News> queryNewsByPage(@Param("start") Integer currentPage, @Param("size") Integer size);
     int queryCount();
+    List<News> queryNewsByPageOptimization(@Param("lastPageRecord") Integer lastPageRecord, @Param("size") Integer size);
 }

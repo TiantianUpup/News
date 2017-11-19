@@ -2,6 +2,7 @@ package com.cqupt.myproject.service.impl;
 
 import com.cqupt.myproject.dao.NewsDao;
 import com.cqupt.myproject.entity.News;
+import com.cqupt.myproject.exception.ErrorException;
 import com.cqupt.myproject.service.NewsService;
 import com.cqupt.myproject.util.PageUtil;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -39,7 +40,7 @@ public class NewsServiceImpl implements NewsService {
         pageUtil.setCurrPage(currentPage);
 
         //每页显示的数据
-        int pageSize = 2;
+        int pageSize = 10;
         pageUtil.setPageSize(pageSize);
 
         //封装总记录数
@@ -60,5 +61,22 @@ public class NewsServiceImpl implements NewsService {
 
         pageUtil.setLists(newsList);
         return pageUtil;
+    }
+
+    /**
+     * 通过Limit m代替limit m,n优化以后的批量查询
+     * @param lastPageRecord 记录上一页的最后一条数据的id
+     * @return
+     * */
+    public List<News> queryNewsByPageOptimization(Integer lastPageRecord) {
+        //每页显示的数据
+        int pageSize = 10;
+        List<News> newsList = newsDao.queryNewsByPageOptimization(lastPageRecord, pageSize);
+
+        if (newsList == null || newsList.size() == 0) {
+            throw new ErrorException("没有任何内容");
+        }
+
+        return newsList;
     }
 }

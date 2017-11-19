@@ -8,11 +8,18 @@
     </resultMap>
 
     <select id="queryNewsByPage" resultType="news">
-        SELECT news_id, news_title, news_content
-        FROM news
+        SELECT a.news_id, a.news_title, a.news_content
+        FROM news a INNER JOIN
+        (SELECT news_id FROM news ORDER BY news_id
         <if test="start != null and size != null">
             limit #{start}, #{size}
         </if>
+        ) b ON a.news_id = b.news_id
+    </select>
+
+    <select id="queryNewsByPageOptimization" resultType="news">
+        SELECT news_id, news_title, news_content
+        FROM news WHERE news_id > #{lastPageRecord} ORDER BY news_id limit #{size}
     </select>
 
     <select id="queryCount" resultType="Integer">

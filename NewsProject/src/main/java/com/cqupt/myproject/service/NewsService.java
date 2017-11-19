@@ -2,6 +2,9 @@ package com.cqupt.myproject.service;
 
 import com.cqupt.myproject.entity.News;
 import com.cqupt.myproject.util.PageUtil;
+import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 /**
  * 新闻业务层
@@ -11,4 +14,5 @@ import com.cqupt.myproject.util.PageUtil;
 public interface NewsService {
     int queryCount();
     PageUtil<News> queryNewsByPage(Integer currentPage);
+    List<News> queryNewsByPageOptimization(Integer lastPageRecord);
 }
