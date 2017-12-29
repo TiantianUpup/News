@@ -14,4 +14,6 @@
 4.对结果进行封装到一个result，但没有对其进行序列化，报SerializationException异常
 
 5.java.lang.Integer cannot be cast to java.lang.String   redis键是一个对象类型
+
+6.HTTP Status 405 - Request method 'GET' not supported
 ###
