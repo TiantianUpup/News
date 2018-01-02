@@ -1,263 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="006d76fc-881d-4e92-ba82-6ca15ce06b2a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_40.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/controller/LoginController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/entity/Administrator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/util/CookieUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/util/EncryptUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/administrator_login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/cookie_test.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/cookie001.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/login_administrator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/test.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/artifacts/NewsProject_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/artifacts/NewsProject_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__com_alibaba_druid_1_0_29.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_40.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_core_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_orm_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_test_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_tx_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_web_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/NewsProject.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/controller/LoginController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/entity/Administrator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/src/main/webapp/administrator_login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/controller/LoginController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/controller/NewsController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/dao/LoginDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/dao/LoginMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/dao/NewsDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/dao/NewsMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/entity/Administrator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/entity/News.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/exception/ErrorException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/exception/MyExceptionHandle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/generator/NewsKeyGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/interceptor/LoginInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/redis/RedisCacheConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/service/LoginService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/service/NewsService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/service/impl/LoginServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/service/impl/NewsServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/util/PageUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/util/Result.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/com/cqupt/myproject/util/ResultUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/db.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/spring-redis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/classes/springmvc-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/controller/LoginController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/controller/NewsController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/dao/LoginDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/dao/LoginMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/dao/NewsDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/dao/NewsMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/entity/Administrator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/entity/News.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/exception/ErrorException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/exception/MyExceptionHandle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/generator/NewsKeyGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/interceptor/LoginInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/redis/RedisCacheConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/service/LoginService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/service/NewsService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/service/impl/LoginServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/service/impl/NewsServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/util/PageUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/util/Result.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/com/cqupt/myproject/util/ResultUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/db.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/spring-redis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/classes/springmvc-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.10.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/c3p0-0.9.5.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/commons-pool2-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.29.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/ezmorph-1.0.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/gson-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/jedis-2.9.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.14.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/mockito-core-1.9.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.40.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/objenesis-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.13.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-data-keyvalue-1.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-data-redis-1.8.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/add_news.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/administrator_login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NewsProject/target/com.cqupt.myproject-1.0-SNAPSHOT/test.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/News.iml" afterPath="$PROJECT_DIR$/.idea/News.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/controller/NewsController.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/controller/NewsController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/dao/LoginDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/dao/LoginDao.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/dao/LoginMapper.xml" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/dao/LoginMapper.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/dao/NewsDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/dao/NewsDao.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/dao/NewsMapper.xml" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/dao/NewsMapper.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/entity/News.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/entity/News.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/exception/ErrorException.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/exception/ErrorException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/exception/MyExceptionHandle.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/exception/MyExceptionHandle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/generator/NewsKeyGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/generator/NewsKeyGenerator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/interceptor/LoginInterceptor.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/interceptor/LoginInterceptor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/redis/RedisCacheConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/redis/RedisCacheConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/service/LoginService.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/service/LoginService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/service/NewsService.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/service/NewsService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/service/impl/LoginServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/service/impl/LoginServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/service/impl/NewsServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/service/impl/NewsServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/util/PageUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/util/PageUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/util/Result.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/util/Result.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/java/com/cqupt/myproject/util/ResultUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/cqupt/myproject/util/ResultUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/resources/db.properties" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/resources/spring-redis.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring-redis.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/resources/springmvc-config.xml" afterPath="$PROJECT_DIR$/src/main/resources/springmvc-config.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/webapp/add_news.html" afterPath="$PROJECT_DIR$/src/main/webapp/add_news.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NewsProject/src/main/webapp/test.html" afterPath="$PROJECT_DIR$/src/main/webapp/success.html" />
-    </list>
+    <list default="true" id="006d76fc-881d-4e92-ba82-6ca15ce06b2a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1023,12 +767,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514894990745</updated>
-      <workItem from="1514894992584" duration="370000" />
+      <workItem from="1514894992584" duration="532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370000" />
+    <option name="totallyTimeSpent" value="532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2869" y="-11" width="2182" height="1312" extended-state="6" />
@@ -1053,7 +797,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6223022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49370503" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
