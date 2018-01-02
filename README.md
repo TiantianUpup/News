@@ -15,5 +15,7 @@
 
 5.java.lang.Integer cannot be cast to java.lang.String   redis键是一个对象类型
 
-6.HTTP Status 405 - Request method 'GET' not supported
+6.HTTP Status 405 - Request method 'GET' not supported   
+
+7.前端json格式传数据，后台需要对对象加@RequestBody注解
 ###
